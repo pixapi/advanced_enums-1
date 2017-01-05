@@ -11,4 +11,6 @@ class VendingMachine
     @inventory << snack
   end
 
+  def 
+
 end
